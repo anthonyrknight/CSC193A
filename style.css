@@ -1,0 +1,23 @@
+
+ul {
+    display: flex;
+    list-style: none;
+    justify-content: space-evenly;
+}
+
+
+
+
+.banner {
+    display: flex;
+    justify-content: center;
+}
+.banner img {
+    max-width: 600px;
+}
+
+
+.bodyInfo {
+    display: grid;
+    place-items: center;
+}
